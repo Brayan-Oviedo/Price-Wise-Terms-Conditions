@@ -1,8 +1,8 @@
 # Price-Wise-Terms-Conditions
 
-#Términos y Condiciones de Price Wise
+# Términos y Condiciones de Price Wise
 
-##Uso de la Aplicación:
+## Uso de la Aplicación:
 
 Debe ser mayor de 18 años para registrarse y usar nuestra aplicación.
 Usted es responsable de mantener la confidencialidad de su nombre de usuario y contraseña.
